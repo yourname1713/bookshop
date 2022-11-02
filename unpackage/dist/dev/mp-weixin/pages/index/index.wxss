@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/**
+ * 下方引入的为uView UI的集成样式文件，为scss预处理器，其中包含了一些"u-"开头的自定义变量
+ * uView自定义的css类名和scss变量，均以"u-"开头，不会造成冲突，请放心使用 
+ */
+.goodItems.data-v-57280228 {
+  padding: 20rpx;
+  font-size: 30rpx;
+  box-shadow: 0 12rpx 20rpx rgba(0, 0, 0, 0.1);
+}
+.goodItems .title.data-v-57280228 {
+  text-align: center;
+  margin: 20rpx 0 10rpx;
+}
+.goodItems .box.data-v-57280228 {
+  display: flex;
+  justify-content: space-around;
+}
+.goodItems .box .price.data-v-57280228 {
+  color: red;
+}
+

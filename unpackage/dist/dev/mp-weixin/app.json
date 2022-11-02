@@ -1,0 +1,56 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/center/center",
+    "pages/center/userInfo",
+    "pages/goods/goods",
+    "pages/goods/show",
+    "pages/goodbus/goodbus",
+    "pages/goodbus/payment",
+    "pages/login/login",
+    "pages/register/register",
+    "pages/center/collectgoods",
+    "pages/center/address",
+    "pages/center/addsite"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uView",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#909399",
+    "selectedColor": "#303133",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/icon/首页.png",
+        "selectedIconPath": "static/icon/首页(1).png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/goods/goods",
+        "iconPath": "static/icon/商品.png",
+        "selectedIconPath": "static/icon/商品(1).png",
+        "text": "商品"
+      },
+      {
+        "pagePath": "pages/goodbus/goodbus",
+        "iconPath": "static/icon/购物车.png",
+        "selectedIconPath": "static/icon/购物车(1).png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/center/center",
+        "iconPath": "static/icon/个人中心.png",
+        "selectedIconPath": "static/icon/个人中心(1).png",
+        "text": "个人中心"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

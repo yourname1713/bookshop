@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "商品",
+  "usingComponents": {
+    "u-search": "/uview-ui/components/u-search/u-search",
+    "u-collapse": "/uview-ui/components/u-collapse/u-collapse",
+    "u-collapse-item": "/uview-ui/components/u-collapse-item/u-collapse-item",
+    "u-row": "/uview-ui/components/u-row/u-row",
+    "u-col": "/uview-ui/components/u-col/u-col",
+    "u-image": "/uview-ui/components/u-image/u-image"
+  }
+}
